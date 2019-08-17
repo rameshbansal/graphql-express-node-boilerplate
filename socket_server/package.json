@@ -1,0 +1,16 @@
+{
+  "name": "real-time-updates",
+  "version": "1.0.5",
+  "description": "socket plugin for real time update",
+  "main": "./index.js",
+  "author": "applane team",
+  "license": "ISC",
+  "scripts": {},
+  "dependencies": {
+    "socket.io": "1.7.1",
+    "express": "4.13.4"
+  },
+  "devDependencies": {
+    "uglify-js": "^2.7.5"
+  }
+}
